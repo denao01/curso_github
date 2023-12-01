@@ -1,5 +1,5 @@
 function mostranome(nome){
-return nome
+return nome;
 }
 
 Function mostrasobrenome (sobreNome){
@@ -7,4 +7,3 @@ Function mostrasobrenome (sobreNome){
 }
 
 //Finalizado sistema da home
-
