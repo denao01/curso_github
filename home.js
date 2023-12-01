@@ -1,5 +1,5 @@
 function mostranome(nome){
-return nome
+return nome;
 }
 
 Function mostrasobrenome (sobreNome){
